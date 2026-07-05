@@ -1,0 +1,30 @@
+MIT License
+
+---
+
+# My recommendation after pasting this
+Once you paste this README, do **3 small edits** so it matches your repo perfectly:
+
+## 1) Fix the Streamlit run command if needed
+If your actual entry file is:
+- `app/0_Home.py` → keep as-is  
+- `app/Home.py` or something else → update that line
+
+---
+
+## 2) Update the notebook names section if your actual notebook filenames differ
+I intentionally kept that section semi-generic because I don’t want to invent notebook names you may not be using.
+
+---
+
+## 3) Add screenshots later
+Once the app is final, add a section like:
+
+```markdown
+## Dashboard Screenshots
+
+### Home
+![Home](images/home.png)
+
+### Customer Segmentation
+![Customer Segmentation](images/customer_segmentation.png)

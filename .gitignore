@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit secrets if any
+.streamlit/secrets.toml
+
+# Optional: ignore raw data if you don't want to push it
+# data/raw/
+
+# Optional: ignore PBIX if you don't want to push it
+# powerbi/*.pbix
