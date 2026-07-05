@@ -2,32 +2,76 @@
 
 ### End-to-End E-Commerce Analytics using Python, SQL, Pandas, Streamlit, Forecasting, Customer Segmentation, Market Basket Analysis, and Power BI
 
----
-
-## 1. Project Overview
-
-**Retail Intelligence Platform** is an end-to-end e-commerce analytics project built on the **Olist Brazilian E-Commerce Public Dataset**. The goal of the project is to transform raw multi-table transactional retail data into a **business-ready analytics platform** that supports decision-making across customer behavior, retention, forecasting, seller performance, product purchase patterns, executive reporting, and interactive dashboard exploration.
-
-This project was designed to simulate the work of a **Data Analyst / Business Analyst / BI Analyst** in a retail or marketplace environment. It combines:
-
-- data understanding and cleaning
-- exploratory data analysis
-- KPI development
-- customer segmentation
-- cohort-style retention analysis
-- time-series forecasting
-- market basket analysis
-- seller / marketplace analytics
-- executive reporting in **Power BI**
-- dashboard delivery through **Streamlit**
-
-Rather than stopping at notebook analysis, the project follows a **pipeline approach**:
-
-**Raw Data → Cleaning / Analysis Notebooks → Business Reporting Outputs → Power BI Dashboards → Streamlit Analytics Application**
+Retail Intelligence Platform is an end-to-end e-commerce analytics project built on the **Olist Brazilian E-Commerce Public Dataset**. It transforms raw marketplace data into a business-ready analytics solution covering customer behavior, retention, forecasting, seller performance, product purchase patterns, executive reporting, and interactive dashboard exploration.
 
 ---
 
-## 2. Business Problem
+# 🚀 Project Highlights
+
+- End-to-end analytics project using a real multi-table retail dataset
+- Data cleaning, EDA, feature engineering, and business KPI development
+- Customer segmentation using **RFM**
+- **Cohort / retention analysis**
+- **Sales forecasting**
+- **Market basket analysis**
+- **Seller / marketplace analytics**
+- **Power BI executive dashboard**
+- **Streamlit analytics application**
+
+---
+
+# 📊 Power BI Dashboard Preview
+
+The Power BI layer provides executive reporting across sales, customers, products, sellers, and delivery / review quality.
+
+## Executive Overview
+![Executive Overview](./powerbi/dashboard_screenshots/executive_overview.png)
+
+## Sales Performance
+![Sales Performance](./powerbi/dashboard_screenshots/sales_performance.png)
+
+## Customer Analysis
+![Customer Analysis](./powerbi/dashboard_screenshots/customer_analysis.png)
+
+## Product and Category Analysis
+![Product and Category Analysis](./powerbi/dashboard_screenshots/product_category_analysis.png)
+
+## Seller Analysis
+![Seller Analysis](./powerbi/dashboard_screenshots/seller_analysis.png)
+
+## Reviews and Delivery
+![Reviews and Delivery](./powerbi/dashboard_screenshots/reviews_delivery.png)
+
+---
+
+# 🖥️ Streamlit Application Preview
+
+The Streamlit application acts as the interactive analytics layer of the project, allowing business users to explore KPIs, customer segments, retention trends, seller analytics, and market basket insights in an app format.
+
+## Home
+![Home](./app/app_screenshots/home.png)
+
+## Executive Dashboard
+![Executive Dashboard](./app/app_screenshots/executive_dashboard.png)
+
+## Customer Segmentation
+![Customer Segmentation](./app/app_screenshots/customer_segmentation.png)
+
+## Cohort Retention
+![Cohort Retention](./app/app_screenshots/cohort_retention.png)
+
+## Market Basket Analysis
+![Market Basket Analysis](./app/app_screenshots/market_basket_analysis.png)
+
+## Seller Marketplace Analytics
+![Seller Marketplace Analytics](./app/app_screenshots/seller_marketplace_analytics.png)
+
+## Retail Intelligence Platform App View
+![Retail Intelligence Platform](./app/app_screenshots/retail_intelligence_platform.png)
+
+---
+
+# 1. Business Problem
 
 E-commerce businesses generate large volumes of data across customers, orders, products, sellers, reviews, and payments. However, raw transactional data is not directly useful for decision-makers unless it is transformed into business metrics, trend reporting, and analytical views.
 
@@ -41,11 +85,9 @@ This project was built to answer business questions such as:
 - Which KPIs should leadership monitor through executive dashboards?
 - How can retail stakeholders explore insights interactively through a self-service analytics app?
 
-The result is a **Retail Intelligence Platform** that converts raw marketplace data into actionable insights for executives, marketing teams, operations teams, and business stakeholders.
-
 ---
 
-## 3. Dataset
+# 2. Dataset
 
 This project uses the **Olist Brazilian E-Commerce Public Dataset**, a publicly available multi-table marketplace dataset containing approximately **100,000 orders** placed between **2016 and 2018**.
 
@@ -72,7 +114,7 @@ This project uses the **Olist Brazilian E-Commerce Public Dataset**, a publicly 
 
 ---
 
-## 4. Project Objectives
+# 3. Project Objectives
 
 The main objectives of the Retail Intelligence Platform are to:
 
@@ -89,9 +131,7 @@ The main objectives of the Retail Intelligence Platform are to:
 
 ---
 
-## 5. Project Architecture
-
-The project follows a notebook-to-dashboard architecture:
+# 4. Project Architecture
 
 ```text
 Raw Olist Data
