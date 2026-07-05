@@ -49,25 +49,25 @@ The Power BI layer provides executive reporting across sales, customers, product
 The Streamlit application acts as the interactive analytics layer of the project, allowing business users to explore KPIs, customer segments, retention trends, seller analytics, and market basket insights in an app format.
 
 ## Home
-![Home](./app/app_screenshots/home.png)
+![Home](./app/app_screenshots/Home.png)
 
 ## Executive Dashboard
-![Executive Dashboard](./app/app_screenshots/executive_dashboard.png)
+![Executive Dashboard](./app/app_screenshots/Executive_Dashboard.png)
 
 ## Customer Segmentation
-![Customer Segmentation](./app/app_screenshots/customer_segmentation.png)
+![Customer Segmentation](./app/app_screenshots/Customer_Segmentation.png)
 
 ## Cohort Retention
-![Cohort Retention](./app/app_screenshots/cohort_retention.png)
+![Cohort Retention](./app/app_screenshots/Cohort_Retention.png)
 
 ## Market Basket Analysis
-![Market Basket Analysis](./app/app_screenshots/market_basket_analysis.png)
+![Market Basket Analysis](./app/app_screenshots/Market_Basket_Analysis.png)
 
 ## Seller Marketplace Analytics
-![Seller Marketplace Analytics](./app/app_screenshots/seller_marketplace_analytics.png)
+![Seller Marketplace Analytics](./app/app_screenshots/Seller_Marketplace_Analytics.png)
 
 ## Retail Intelligence Platform App View
-![Retail Intelligence Platform](./app/app_screenshots/retail_intelligence_platform.png)
+![Retail Intelligence Platform](./app/app_screenshots/Retail_Intelligence_Platform.png)
 
 ---
 
