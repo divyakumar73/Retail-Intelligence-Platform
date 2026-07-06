@@ -1,0 +1,51 @@
+seller_id,seller_city,seller_state,total_orders,late_orders,late_order_rate_pct
+b1b3948701c5c72445495bd161b83a4c,sao paulo,SP,18,9,50.0
+973f21788dfab357250f69a8dcb7ddee,claudio,MG,10,5,50.0
+26e2c91ef821e1ff8985f408788fe35b,ibitinga,SP,12,5,41.67
+f76a3b1349b6df1ee875d1f3fa4340f0,sao paulo,SP,24,9,37.5
+d9e7e7778b32987280a6f2cb9a39c57d,sao paulo,SP,11,4,36.36
+b0b346d3a89f5eb4c2968af3f083cd43,campinas,SP,11,4,36.36
+02d35243ea2e497335cd0f076b45675d,natal,RN,14,5,35.71
+0725b8c0f3f906e58f70cbe76b7c748c,guarulhos,SP,17,6,35.29
+cb41bfbcbda0aea354a834ab222f9a59,sao paulo,SP,12,4,33.33
+e64d65bc8dbec2accda90c58de5d1246,rio claro,SP,12,4,33.33
+ede0c03645598cdfc63ca8237acbe73d,ribeirao preto,SP,46,15,32.61
+821fb029fc6e495ca4f08a35d51e53a5,sao paulo,SP,28,9,32.14
+0417b067eeab773d2f7061a726dc477f,sao bento do sul,SC,13,4,30.77
+5f67c6082caacb26e431a7b17940cece,maringa,PR,13,4,30.77
+7f152321c60a266edc53af1925ef96c1,criciuma,SC,20,6,30.0
+d32e3909cfb714fb2a6cb092c85b9c5f,jundiai,SP,10,3,30.0
+c990d6cf976a5718aaedc539f383ab88,paulinia,SP,10,3,30.0
+835f0f7810c76831d6c7d24c7a646d4d,sao paulo,SP,44,13,29.55
+c4d51195486dc781531876a7d00453d8,presidente prudente,SP,17,5,29.41
+054694fa03fe82cec4b7551487331d74,itajobi,SP,21,6,28.57
+02dcd3e8e25bee036e32512bcf175493,contagem,MG,14,4,28.57
+7fc87cc3e89b3d1d5cabdca32f8485aa,guarulhos,SP,14,4,28.57
+13074f016982ff2bd6c58ced8682f000,bento goncalves,RS,14,4,28.57
+54965bbe3e4f07ae045b90b0b8541f52,foz do iguacu,PR,78,22,28.21
+822bad9bc42b51213ba522fe87b7ab5d,balneario camboriu,SC,18,5,27.78
+ad781527c93d00d89a11eecd9dcad7c1,sao jose do rio preto,SP,44,12,27.27
+4e5725ba188db8252977a4f0227bd462,ribeirao preto,SP,22,6,27.27
+e504a4e2efaa45cbff7e268a2c58c956,sao pedro,SP,11,3,27.27
+91f0eec23d4a61d7d7caeefa3f0ad1ca,tubarao,SC,11,3,27.27
+eb4df17aed01d918c65f0f8d650900c0,paulinia,SP,11,3,27.27
+3a1a1fec38dd360f15fc912e821e169d,sao paulo,SP,15,4,26.67
+a44fb5a447105f8469bdf16bf9159f25,porto alegre,RS,19,5,26.32
+66e0557ecc2b4dbea057e93f215f68d8,sao paulo,SP,31,8,25.81
+ef990a83bbea832f36ebe81376335aa8,joinville,SC,43,11,25.58
+a49928bcdf77c55c6d6e05e09a9b4ca5,sao paulo,SP,98,25,25.51
+beadbee30901a7f61d031b6b686095ad,guarulhos,SP,64,16,25.0
+2a1348e9addc1af5aaa619b1a3679d6b,belo horizonte,MG,52,13,25.0
+b19f3ca2ea475913750f25a5c37c8d8f,divinopolis,MG,24,6,25.0
+ff69aa92bb6b1bf9b8b7a51c2ed9cf8b,sao paulo,SP,20,5,25.0
+b5e3e38609125694d2ea2417522a60b7,florianopolis,SC,16,4,25.0
+c37b2059d4f90d4feead554e5246565e,sao paulo,SP,12,3,25.0
+5b581417df4480f632484ba681e53944,florianopolis,SC,12,3,25.0
+5b0cc932433fa5184b5b94bfe6bcc256,ibitinga,SP,12,3,25.0
+1dfe5347016252a7884b694d4f10f5c4,ibitinga,SP,21,5,23.81
+5bc55dbe2f12b6af6d83ed46023e0dc8,coronel fabriciano,MG,17,4,23.53
+53d00c40e32aeb924a84ce72b1af869d,ibitinga,SP,17,4,23.53
+5abb8ea023c77787f2c15da891c8d384,joinville,SC,13,3,23.08
+36890be00bbfc1cdb9a4a38a6af05a69,osasco,SP,13,3,23.08
+06a2c3af7b3aee5d69171b0e14f0ee87,sao luis,MA,392,90,22.96
+71039d19d4303bf9054d69e9a9236699,sao paulo,SP,35,8,22.86

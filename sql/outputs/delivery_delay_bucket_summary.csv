@@ -1,0 +1,6 @@
+delay_bucket,orders_count,avg_review_score
+On Time / Early,89941,4.29
+Not Delivered,2965,1.76
+8+ Days Late,2863,1.7
+1-3 Days Late,1870,3.29
+4-7 Days Late,1802,2.1

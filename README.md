@@ -1,20 +1,23 @@
 # 🛒 Retail Intelligence Platform
 
-### End-to-End E-Commerce Analytics using Python, SQL, Pandas, Streamlit, Forecasting, Customer Segmentation, Market Basket Analysis, and Power BI
+### End-to-End E-Commerce Analytics using Python, PostgreSQL, SQL, Pandas, Streamlit, Forecasting, Customer Segmentation, Market Basket Analysis, and Power BI
 
-Retail Intelligence Platform is an end-to-end e-commerce analytics project built on the **Olist Brazilian E-Commerce Public Dataset**. It transforms raw marketplace data into a business-ready analytics solution covering customer behavior, retention, forecasting, seller performance, product purchase patterns, executive reporting, and interactive dashboard exploration.
+**Retail Intelligence Platform** is an end-to-end e-commerce analytics project built on the **Olist Brazilian E-Commerce Public Dataset**. It transforms raw multi-table marketplace data into a **business-ready retail analytics solution** covering customer behavior, repeat purchase analysis, retention, seller performance, product insights, forecasting, executive reporting, and interactive dashboard exploration.
+
+This project was designed to simulate the work of a **Data Analyst / Business Analyst / BI Analyst** working on a retail marketplace use case. It combines **Python-based analytics**, **PostgreSQL SQL analysis**, **Power BI reporting**, and a **Streamlit analytics application** into a single portfolio project.
 
 ---
 
 # 🚀 Project Highlights
 
-- End-to-end analytics project using a real multi-table retail dataset
+- End-to-end analytics project using a real multi-table e-commerce dataset
 - Data cleaning, EDA, feature engineering, and business KPI development
 - Customer segmentation using **RFM**
 - **Cohort / retention analysis**
 - **Sales forecasting**
 - **Market basket analysis**
 - **Seller / marketplace analytics**
+- **PostgreSQL SQL analytics layer**
 - **Power BI executive dashboard**
 - **Streamlit analytics application**
 
@@ -22,7 +25,7 @@ Retail Intelligence Platform is an end-to-end e-commerce analytics project built
 
 # 📊 Power BI Dashboard Preview
 
-The Power BI layer provides executive reporting across sales, customers, products, sellers, and delivery / review quality.
+The **Power BI layer** provides executive reporting across sales, customers, products, sellers, and delivery / review quality.
 
 ## Executive Overview
 ![Executive Overview](./powerbi/dashboard_screenshots/executive_overview.png)
@@ -46,7 +49,7 @@ The Power BI layer provides executive reporting across sales, customers, product
 
 # 🖥️ Streamlit Application Preview
 
-The Streamlit application acts as the interactive analytics layer of the project, allowing business users to explore KPIs, customer segments, retention trends, seller analytics, and market basket insights in an app format.
+The **Streamlit application** acts as the interactive analytics layer of the project, allowing business users to explore KPIs, customer segments, retention trends, seller analytics, and market basket insights through an app-based interface.
 
 ## Home
 ![Home](./app/app_screenshots/Home.png)
@@ -82,6 +85,7 @@ This project was built to answer business questions such as:
 - What future sales trend can be expected from historical order data?
 - Which product categories or items are frequently purchased together?
 - Which sellers drive the most revenue and how does seller quality vary?
+- How do delivery timelines and review scores impact customer experience?
 - Which KPIs should leadership monitor through executive dashboards?
 - How can retail stakeholders explore insights interactively through a self-service analytics app?
 
@@ -120,40 +124,44 @@ The main objectives of the Retail Intelligence Platform are to:
 
 - build a production-style analytics project around a real retail dataset
 - clean and prepare multi-table marketplace data for analysis
-- create business KPIs across customers, sellers, and orders
-- perform customer segmentation using RFM logic
+- create business KPIs across customers, sellers, products, and orders
+- perform customer segmentation using **RFM logic**
 - analyze repeat purchase and retention behavior
 - forecast sales / order trends using time-series techniques
 - identify product co-purchase patterns through market basket analysis
-- evaluate seller performance and review quality
+- evaluate seller performance, delivery experience, and review quality
 - build executive dashboards in **Power BI**
 - deliver a business-facing analytics application using **Streamlit**
+- create a **PostgreSQL SQL analytics layer** for KPI reporting and analytical exports
 
 ---
 
 # 4. Project Architecture
 
 ```text
-Raw Olist Data
+Raw Olist CSV Data
       │
       ▼
-Data Understanding / Cleaning / Feature Engineering
+Python Data Understanding / Cleaning / Feature Engineering
       │
       ▼
 Analytical Notebooks
       │
-      ├── Forecasting
-      ├── Customer Segmentation
-      ├── Cohort / Repeat Analysis
+      ├── Exploratory Data Analysis
+      ├── Customer Segmentation (RFM)
+      ├── Cohort / Repeat Purchase Analysis
+      ├── Sales Forecasting
       ├── Market Basket Analysis
-      ├── Seller Analytics
-      └── Power BI Data Modeling
+      ├── Seller / Marketplace Analytics
+      ├── Power BI Data Modeling
+      └── PostgreSQL SQL Analytics
       │
       ▼
-Exported Business Report Files / Analytical Outputs
+Exported Business Reporting Files / Analytical Outputs
       │
+      ├── Streamlit App Data Layer
       ├── Power BI Dashboard Layer
-      └── Streamlit Application Layer
+      └── SQL Reporting Layer
       │
       ▼
 Business Dashboards, KPIs, and Insights

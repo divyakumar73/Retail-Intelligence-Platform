@@ -1,0 +1,5 @@
+customer_segment,customer_count,avg_customer_revenue,avg_orders
+One-time,93099,137.63,1.0
+Repeat,2948,253.37,2.07
+Loyal,44,633.75,4.45
+High-value,5,802.1,9.4

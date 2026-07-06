@@ -1,0 +1,2 @@
+total_orders,total_customers,total_revenue,average_order_value,average_review_score,delivered_orders,cancelled_orders,delivered_order_rate_pct,total_freight_cost,freight_pct_of_revenue
+99441,96096,13591643.7,136.68,4.09,96478,625,97.02,2251909.54,16.57
